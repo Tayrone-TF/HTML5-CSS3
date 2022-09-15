@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'font-android' ;
+    src: url('/fontes/idroid.otf') format('opentype');
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #84E1AD;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+
+}
+
+.cabecalho {
+
+    background-image: linear-gradient(180deg, #3CD681, #1A5C38);
+    text-align: center;
+    color: #ffffff;
+    padding: 15px 10px;
+}
+
+.cabecalho>h1{
+    color: #ffffff;
+}
+.cabecalho>p{
+    text-align: center;
+}
+
+nav {
+    text-align: left;
+}
+
+
+
+nav>a {
+    text-decoration: none;
+    color: #ffffff;
+    margin: 0 10px;
+
+}
+
+main {
+    background-color: #ffffff;
+    margin-top: 0px;
+    margin-right: 300px;
+    margin-bottom: 30px;
+    margin-left: 300px;
+    box-shadow: 5px 5px 5px #5fa07b73;
+    border-radius: 0 0 10px 10px;
+}
+
+
+
+
+.inicio>h1{
+    color: #45805f;
+    font-size: 32px;
+    margin: 0 10px;
+    padding: 15px 0px;
+    text-align: center;
+
+
+}
+h2{
+    color: #518d6c;
+    margin: 0 10px;
+    padding-left: 10px;
+    background-image: linear-gradient(to right, #c5e9d5a8, #e9f7ef11 );
+}
+
+p {
+    text-indent: 30px;
+    margin: 10px;
+    text-align: justify;
+}
+
+.link {
+    text-decoration: none;
+    color: #45805f;
+}
+
+span {
+    font-family:Arial, Helvetica, sans-serif;
+    color: #45805f;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.video {
+    background-color: #1A5C38;
+    margin: 0;
+}
+
+#video-evolucao-android {
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.roda-pe {
+    background-color: #2F6D4B;
+    color: #ffffff;
+    
+}
+.roda-pe>p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0px;
+    text-align: center;
+    font-size: small;
+} 
+
+.bloco-green{
+    background-color: #C5EBD6;
+    margin: 30px;
+    padding-bottom: 5px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 3px 3px 8px #687c705b;
+    
+}
+
+.bloco-green>p{
+    background-color: #2BA662;
+    color: #ffffff;
+    border-radius: 10px 10px 0 0;
+    margin: 0;
+    padding: 10px 10px;
+}
+
+.cont-final-1>p{
+    margin: 20px 10px;
+}
+
+.version-list{
+    display: flex;
+    justify-content: space-around;
+   
+    
+}
+
+.cont-final-2>p{
+    margin: 20px 10px;
+}
+
+.container-final>p{
+    margin: 10px 30px;
+    padding-bottom: 20px;
+}
+
+
