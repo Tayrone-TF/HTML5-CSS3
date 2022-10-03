@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+:root {
+    --cor0: #EBE5C5;
+    --green1: #83E1AD;
+    --green2: #063D1E;
+    --green3: #1A5C37;
+    --green4: #2FA866;
+}
